@@ -1,6 +1,8 @@
 # Automatic Classification of Impact to Sustainable Development Goals (ASDG)
 
-A Natural Language Processing based code which returns the Sustainable Development Goals categories for a given input paper
+A Natural Language Processing based code which returns the Sustainable Development Goals categories for a given input paper.
+
+This code is tested under Python 3.8. We recommend the use of a virtual environment and installing the libraries included in the requirements.txt file.
 
 Related publications:
 
